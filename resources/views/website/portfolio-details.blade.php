@@ -76,7 +76,7 @@
               Behind the Curve by the Park,<br>
               South C.<br>
               <strong>Phone:</strong> +254 723 947 679<br>
-              <strong>Email:</strong> bogonkomultimedia@gmail.com<br>
+              <strong>Email:</strong> info@swiftex.com<br>
             </p>
           </div>
 
@@ -87,18 +87,18 @@
               <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/')}}#about">About us</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/')}}#services">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/')}}#portfolio">Portfolio</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/')}}#contact">Reach Us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/')}}#contact">Contact Us</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a>Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a>Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a>Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a>Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a>Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/')}}#services">Web Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/')}}#services">Web Development</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/')}}#services">Product Management</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/')}}#services">Content Marketing</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/')}}#services">Graphic Design</a></li>
             </ul>
           </div>
 
